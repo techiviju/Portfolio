@@ -3,7 +3,6 @@ import axios from 'axios';
 // 1. Get the URL dynamically based on environment
 const BASE_URL = import.meta.env.VITE_API_URL; 
 
-// Create an axios instance
 const api = axios.create({
   baseURL: BASE_URL, 
   headers: {
@@ -12,11 +11,6 @@ const api = axios.create({
   withCredentials: true 
 });
 
-// ==============================================
-//  MISSING PART ADDED BELOW (Request Interceptor)
-// ==============================================
-
-// 2. Request Interceptor: Attach Token to every request
 api.interceptors.request.use(
   (config) => {
     const token = localStorage.getItem('token');

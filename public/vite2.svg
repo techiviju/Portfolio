@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonGreenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#39FF14"/> <stop offset="100%" stop-color="#00FF00"/> </linearGradient>
+
+    <filter id="glassGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feOffset in="blur" dx="0" dy="0" result="offsetBlur"/>
+      <feComposite in="SourceGraphic" in2="offsetBlur" operator="atop"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0
+                                          0 1 0 0 0
+                                          0 0 1 0 0
+                                          0 0 0 0.8 0"/>
+      <feBlend in="SourceGraphic" in2="offsetBlur" mode="screen"/>
+    </filter>
+  </defs>
+
+  <path d="M50 30 C50 10 70 10 80 30 L100 150 C105 160 115 160 120 150 L140 30 C150 10 170 10 170 30 L100 170 L50 30 Z"
+        fill="url(#neonGreenGradient)"
+        filter="url(#glassGlow)"/>
+</svg>

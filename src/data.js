@@ -27,7 +27,7 @@ export const PERSONAL_DETAILS = {
   },
 
   contact: {
-    heading: "Let's Work Together vijay",
+    heading: "Let's Work Together",
     subHeading: "I'm currently looking for new opportunities as a Full Stack Java Developer. Send me a message and let's connect.",
     email: "vijaychaudhari5220@gmail.com",
     linkedin: "https://www.linkedin.com/in/vijay-achaudhari/",

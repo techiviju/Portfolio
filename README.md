@@ -24,7 +24,7 @@ My goal is to design full-stack applications that are reliable, user-friendly, a
 > *A glimpse of my responsive portfolio website.*
 
 <div align="center">
-  <img src="portfolio.png" alt="Portfolio Screenshot" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
+  <img src="screenshots/portfolio.png" alt="Portfolio Screenshot" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
 </div>
 
 ---
@@ -79,8 +79,8 @@ If you want to check the code on your local machine:
 
 I am currently **Open to Work** for Full Stack Java Developer roles.
 
-* **Email:** [Your Email Here]
-* **LinkedIn:** [Your LinkedIn Profile Here]
+* **Email:** vijaychaudhari5220@gmail.com
+* **LinkedIn:** .[LinkedIn](https://www.linkedin.com/in/vijay-achaudhari/)
 
 ---
 <div align="center">

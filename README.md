@@ -3,7 +3,7 @@
   <h1>Welcome to My Portfolio</h1>
   <p><strong>The Source Code Behind My Digital Identity</strong></p>
 
-  <a href="YOUR_NETLIFY_OR_LIVE_LINK_HERE">
+  <a href="https://vijaychportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Site-Visit_Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://www.linkedin.com/in/vijay-achaudhari/">

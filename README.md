@@ -6,7 +6,7 @@
   <a href="YOUR_NETLIFY_OR_LIVE_LINK_HERE">
     <img src="https://img.shields.io/badge/Live_Site-Visit_Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK_HERE">
+  <a href="https://www.linkedin.com/in/vijay-achaudhari/">
     <img src="https://img.shields.io/badge/Hire_Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>

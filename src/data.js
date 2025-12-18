@@ -98,7 +98,7 @@ export const PROJECTS = [
     description: "Engineered a robust healthcare platform facilitating interaction between patients, doctors, and admins. Features include secure authentication, appointment scheduling, and dynamic dashboards. Fully containerized with Docker for scalable cloud deployment.",
     tech: ["Java", "JSP & Servlets", "MySQL", "JDBC", "Docker", "Render"],
     github: "https://github.com/techiviju/Doctor-Patient-Project",  
-    live: "https://doctor-patient-portal-08hh.onrender.com/"
+    live: "https://doctor-portal-4o9k.onrender.com/"
   }
 ];
 
